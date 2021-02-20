@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ameenmasmoodi/SassProject/issues"
   },
-  "homepage": "https://github.com/ameenmasmoodi/SassProject#readme"
+  "homepage": "https://github.com/ameenmasmoodi/SassProject#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
 }
