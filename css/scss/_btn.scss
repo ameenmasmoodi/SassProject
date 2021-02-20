@@ -1,0 +1,21 @@
+/* buttons */
+%btn {
+	background: $mainorange;
+	color: $white;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.primary-btn {
+	@extend %btn;
+	display: inline-block;
+	padding: 12px 30px;
+}
+
+.site-btn {
+	@extend %btn;
+	border: 1px solid $mainorange;
+	padding: 13px 45px 11px;
+	cursor: pointer;
+}
